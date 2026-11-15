@@ -1,0 +1,2 @@
+{"order_id":"A","version":1,"op":"upsert","region":"WEST","amount_cents":100}
+{"order_id":"B","version":1,"op":"upsert","region":"EAST","amount_cents":200}

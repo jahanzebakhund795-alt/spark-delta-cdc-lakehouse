@@ -1,0 +1,4 @@
+{"order_id":"A","version":3,"op":"delete"}
+{"order_id":"A","version":2,"op":"upsert","region":"WEST","amount_cents":150}
+{"order_id":"B","version":2,"op":"upsert","region":"EAST","amount_cents":250}
+{"order_id":"bad","version":0,"op":"upsert","amount_cents":-1}
