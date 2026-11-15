@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.duckdb*
+*.sqlite*
+output/
+artifacts/
+.pytest_cache/
+*.egg-info/
+logs/
+target/
+dbt_packages/
+.DS_Store
