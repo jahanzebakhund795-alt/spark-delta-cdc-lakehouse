@@ -1,0 +1,7 @@
+{
+  "pytest_passed": 3,
+  "pytest_output": "...                                                                      [100%]\n3 passed in 0.03s",
+  "executed": "Reference CDC tombstones, replay, version conflicts, and malformed-row quarantine; the reference batch demo was executed.",
+  "not_executed": "The PySpark/Delta job was syntax-checked but not executed because Java and Docker are unavailable. Reference tests do not validate Delta runtime behavior.",
+  "test_python": "3.9.6"
+}

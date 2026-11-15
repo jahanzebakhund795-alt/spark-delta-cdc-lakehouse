@@ -1,0 +1,3 @@
+# Direct dependency versions used for local validation; optional integrations have separate requirements.
+pytest==8.4.2
+httpx==0.28.1
